@@ -13,3 +13,15 @@
 7. Now you may open and run the notebook in **Google Colab**
 
 The notebook will automatically load the dataset from this location after mounting Google Drive.
+
+## Notebooks
+
+We included two versions of the notebook for your reference:
+
+- **WithChunkingAndStratify.ipynb** 
+  - Stratified Sampling
+  - Chunking of emails
+  - BERT training 
+
+- **NoChunkingAndRandom.ipynb**
+  - Displays preprocessing output 
